@@ -26,6 +26,12 @@ Single User Mode:
 Workshop Mode:
 
 ![Workshop Mode](https://raw.githubusercontent.com/shivamdixit/WebGoatPHP/master/images/workshop_dashboard.png "Workshop Mode")
+### Requirements
+* PHP >= 8.1
+* Apache / Nginx
+* MySQL or SQLite
+* PHP extensions: mysqli, pdo, pdo_mysql, pdo_sqlite
+
 
 ### Installation
 * Clone the git repo. `git clone https://github.com/shivamdixit/WebGoatPHP.git`
@@ -34,6 +40,8 @@ Workshop Mode:
 * Enter your database connection details in app/config/application.php (Line 52)
 * Open the application from localhost
 * Default username:password for single-user mode: `guest:guest`
+* Ensure PHP 8.1 or higher is installed
+
 
 
 ### Contribute
