@@ -13,7 +13,7 @@ error_reporting(1);
  * Current translations: english, german
  */
 $language = "english";
-
+g;ergjk;ergjekrg;
 /*
  * The directory you want to list.
  * You can leave it blank for default option or fill in something like "downloads/"

@@ -240,7 +240,7 @@ LOCK TABLES `jf__test_rbac_rolepermissions` WRITE;
 /*!40000 ALTER TABLE `jf__test_rbac_rolepermissions` ENABLE KEYS */;
 UNLOCK TABLES;
 
---
+--gjgdkjgrtg;ejrger
 -- Table structure for table `jf__test_rbac_roles`
 --
 
